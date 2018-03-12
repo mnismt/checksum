@@ -1,4 +1,6 @@
-![alt](https://i.imgur.com/ymMjIoO.png)
+<div style="text-align:center">
+  <img src="https://i.imgur.com/h0ahw7H.png">
+</div>
 
 ## 🔎 Overview
 
@@ -10,15 +12,18 @@ Checksum is an simple application that help you verifying the checksum of a file
 
 * Support 46 hash functions.
 
+![alt](https://uphinhnhanh.com/images/2018/03/12/aaaa.gif)
+
 ### 🛣️ Roadmap
 
 **Next version: 0.2.0**
 * Add history.
-* Check multiple files at one time.
+* Check multiple files at once.
 
 ## 📥 Download
 
 Download the latest version from the [releases](https://github.com/mnismt/checksum/releases) page.
+Available for Windows & Linux.
 
 ## 🤜 Contribute
 
